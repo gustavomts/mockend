@@ -1,0 +1,16 @@
+{
+  "pessoas": [
+    {
+      "id": 28126,
+      "cpf": "12312312387",
+      "nome": "NOME DA PESSOA",
+      "foto": null
+    },
+    {
+      "id": 28126,
+      "cnpj": "86771317000147",
+      "razao_social": "NOME DA EMPRESA LTDA",
+      "foto": null
+    }
+  ]
+}

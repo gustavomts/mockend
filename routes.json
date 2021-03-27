@@ -1,0 +1,5 @@
+{
+    "/api/*": "/$1",
+    "/gerencia/pessoa/existe/:cpf_cnpj": "/pessoa?cpf_cnpj=:cpf_cnpj",
+    "/gerencia/pessoa": "/pessoas"
+}
