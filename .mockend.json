@@ -1,0 +1,10 @@
+{
+    "Pessoa": {
+        "id": "int",
+        "cpf": "string",
+        "nome": "string",
+        "foto": "string",
+        "cnpj": "string",
+        "razao_social": "string"
+    }
+}
